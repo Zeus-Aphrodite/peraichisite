@@ -1,0 +1,200 @@
+Uri: https://5z85l.hp.peraichi.com/
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\index.htm
+Content Type: text/html
+
+Uri: https://5z85l.hp.peraichi.com/img/display_settings/desktop_slash.svg
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\img\display_settings\desktop_slash.svg
+Content Type: image/svg+xml
+
+Uri: https://5z85l.hp.peraichi.com/img/display_settings/mobile_slash.svg
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\img\display_settings\mobile_slash.svg
+Content Type: image/svg+xml
+
+Uri: https://analytics.peraichi.com/scripts/beacon.min.js?tracking_codes=lZ7EEIDmL5Sq6x8
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\scripts\beacon.min.js
+Content Type: application/javascript
+
+Uri: https://assets.peraichi.com/cjs/dist/peraichi_setting.js?1729478163
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\cjs\dist\peraichi_setting.js
+Content Type: application/javascript
+
+Uri: https://assets.peraichi.com/js/const_common.js
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\js\const_common.js
+Content Type: application/javascript
+
+Uri: https://assets.peraichi.com/js/const_env.js
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\js\const_env.js
+Content Type: application/javascript
+
+Uri: https://assets.peraichi.com/js/lazyLoad.js?1729477889
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\js\lazyLoad.js
+Content Type: application/javascript
+
+Uri: https://assets.peraichi.com/js/libs/lazysizes.min.js?1729477889
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\js\libs\lazysizes.min.js
+Content Type: application/javascript
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/bg_japanese_paper.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\bg_japanese_paper.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/ic_crown.svg
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\ic_crown.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/main/im_parts_badge_polygon_green.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\main\im_parts_badge_polygon_green.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/main/im_parts_badge_polygon_pink.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\main\im_parts_badge_polygon_pink.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/main/im_parts_badge_polygon_yellow.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\main\im_parts_badge_polygon_yellow.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/main/im_parts_frame.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\main\im_parts_frame.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/main/im_parts_ribbon.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\main\im_parts_ribbon.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/premium/ic_exclamation.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\premium\ic_exclamation.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/premium/note2_body.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\premium\note2_body.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/premium/note2_bottom.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\premium\note2_bottom.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/premium/note2_top.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\premium\note2_top.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/theme/summer/summer_circle_gray.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\theme\summer\summer_circle_gray.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/theme/summer/summer_circle_green.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\theme\summer\summer_circle_green.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/s3bucket/images/default/theme/summer/summer_circle_pink.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\theme\summer\summer_circle_pink.png
+Content Type: image/png
+
+Uri: https://assets.peraichi.com/template_root/v2/template_files/css/style.css?1729477891
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\template_files\css\style.css
+Content Type: text/css
+
+Uri: https://cdn.peraichi.com/template_root/v2/s3bucket/images/default/im_image_square.svg
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\im_image_square.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.peraichi.com/template_root/v2/s3bucket/images/default/im_scenery_sky.jpg
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\im_scenery_sky.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.peraichi.com/template_root/v2/s3bucket/images/default/premium/note2_check.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\template_root\v2\s3bucket\images\default\premium\note2_check.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/66e8a9cbf1850/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\66e8a9cbf1850\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/66e8a9cc13715/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\66e8a9cc13715\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/66e8a9cc3e7fb/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\66e8a9cc3e7fb\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f34da2a33/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f34da2a33\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f3a6d13a6/original.jpg
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f3a6d13a6\original.jpg
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f3e9d1708/original.jpg
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f3e9d1708\original.jpg
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f42bdab06/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f42bdab06\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f443cb8e4/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f443cb8e4\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f45dd89c7/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f45dd89c7\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f49a8e51a/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f49a8e51a\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f4b344380/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f4b344380\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f5f7f36e6/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f5f7f36e6\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f60b6eec1/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f60b6eec1\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f61ea205e/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f61ea205e\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f635a6814/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f635a6814\original.png
+Content Type: image/png
+
+Uri: https://cdn.peraichi.com/userData/58588727-d5e0-4680-87f5-6f1f0a00003f/img/6703f64e747ef/original.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\userData\58588727-d5e0-4680-87f5-6f1f0a00003f\img\6703f64e747ef\original.png
+Content Type: image/png
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\font-awesome\4.2.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/fonts/fontawesome-webfont.eot?v=4.2.0
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\font-awesome\4.2.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/fonts/fontawesome-webfont.svg?v=4.2.0
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\font-awesome\4.2.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/fonts/fontawesome-webfont.ttf?v=4.2.0
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\font-awesome\4.2.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/fonts/fontawesome-webfont.woff?v=4.2.0
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\font-awesome\4.2.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://s3-ap-northeast-1.amazonaws.com/s3.peraichi.com/template_root/v2/s3bucket/images/default/sample_cms_content_img.png
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\s3.peraichi.com\template_root\v2\s3bucket\images\default\sample_cms_content_img.png
+Content Type: image/png
+
+Uri: https://webfont.fontplus.jp/accessor/script/fontplus.js?5qoPx6QyJ8k%3D&aa=1
+File Name: C:\Downloaded Web Sites\5z85l.hp.peraichi.com\accessor\script\fontplus.js
+Content Type: application/x-javascript
+
